@@ -1,3 +1,3 @@
 # NAS_FPGA
 
-This research is targrting on accelerating Neural Network Search on FPGAs.
+This research paper is targrting on accelerating Neural Network Search on FPGAs.
